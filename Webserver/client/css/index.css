@@ -1,0 +1,47 @@
+﻿#login_submit {
+    margin-left: auto;
+    margin-right: auto;
+}
+#login_form_div {
+    margin-top:15%;
+    display: block;
+    text-align: center;
+}
+#login_form {
+    text-align: center;
+    display:inline-block;
+    margin-left:auto;
+    margin-right:auto;
+    width:100%;
+}
+#login_form input {
+    text-align: center;
+    width:auto;
+}
+#joblist {
+    width: 50%;
+    margin-left:auto;
+    margin-right:auto;
+}
+.col-header-field {
+    padding-left: 20px;
+    display: inline-block;
+    padding-right: 15px;
+    border-right: 1px solid grey
+}
+.col-header-field:last-child {
+    display: inline-block;
+    border-right:none;
+    padding-right:0;
+}
+.col-head-title {
+    width: 100px;
+    padding-right: 15px;
+    border-right: 1px solid grey;
+}
+.col-content {
+    padding-bottom:15px;
+}
+.error {
+    color:red;
+}
